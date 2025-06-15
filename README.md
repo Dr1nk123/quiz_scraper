@@ -26,3 +26,8 @@
 - 浏览器指纹规避技术
 - 自动生成登录页面快照（login_page.html）用于调试
         
+**使用教程**：
+- 加载requirements.txt中的python库
+- 安装Chrome浏览器
+- 通过user.env设置用户名及密码
+- 更改quiz_scraper.py中的URL信息
