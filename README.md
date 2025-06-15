@@ -31,3 +31,6 @@
 - 安装Chrome浏览器
 - 通过user.env设置用户名及密码
 - 更改quiz_scraper.py中的URL信息
+
+参考文献https://blog.csdn.net/kobepaul123/article/details/128796839
+        https://blog.csdn.net/xu_yong_lin/article/details/117521773，等等
